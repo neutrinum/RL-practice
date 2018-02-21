@@ -9,3 +9,4 @@ at each game step and can accelerate with different values.
 The game can also include other agents, such as an opponent in a 1vs1 race or a teammate and two opponents in a 2vs2 race in which several 
 strategies can be developed, such as using one agent to block the opponents and the other to run through the checkpoints dodging the opponents.
 This is quite more advanced though, and for now this project is limited to just 1 agent trying to finish the race as fast as possible.
+A sample of one of the best results so far is shown in the 'ani' folder.
