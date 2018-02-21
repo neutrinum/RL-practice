@@ -3,7 +3,7 @@ The test environment chosen is a mini-game called 'Coders Strike Back', from the
 some RL algorithms since it has a well defined environment simulating some basic physics and presents a rich set of actions for the agent.
 
 Basically, the agent must pass sequentially through all the checkpoints generated in the map 3 times to win the race. It can observe its
-own location, orientation and velocity as well as the location of the all the checkpoints, and it can perform turns of maximum 18 degrees
+own location, orientation and velocity as well as the location of all checkpoints, and it can perform turns of maximum 18 degrees
 at each game step and can accelerate with different values.
 
 The game can also include other agents, such as an opponent in a 1vs1 race or a teammate and two opponents in a 2vs2 race in which several 
