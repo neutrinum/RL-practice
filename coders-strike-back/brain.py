@@ -35,7 +35,7 @@ memo_max = 1024 * 16
 tau = 0.001
 
 print_metrics = True
-on_policy = True
+on_policy = False
 
 animations = True
 load_model = False
